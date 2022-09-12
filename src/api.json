@@ -1,0 +1,144 @@
+{
+    "success": true,
+    "items": 12,
+    "data": [
+      {
+        "id": "62fcbb75a4191e36cd6fb0c3",
+        "name": "סלט על",
+        "category": "62fcbb75a4191e36cd6fb0ac",
+        "price": 42,
+        "times": {
+          "makeDays": 0,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": [
+            {
+              "date": "2022-08-24T06:33:58.591Z",
+              "id": "6301d1dbcc7d79098895d0ef"
+            }
+          ]
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0c7",
+        "name": "סלט אוליביה",
+        "category": "62fcbb75a4191e36cd6fb0ae",
+        "price": 24,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0c6",
+        "name": "טחינה הר ברכה",
+        "category": "62fcbb75a4191e36cd6fb0ae",
+        "price": 17,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0c0",
+        "name": "בראוניז שוקולד",
+        "category": "62fcbb75a4191e36cd6fb0b2",
+        "price": 24,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0c1",
+        "name": "חלה",
+        "category": "62fcbb75a4191e36cd6fb0b2",
+        "price": 20,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [6],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0cb",
+        "name": "מארז מתנה פסח",
+        "category": "62fcbb75a4191e36cd6fb0b0",
+        "price": 185,
+        "times": {
+          "makeDays": 3,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0ca",
+        "name": "סל מתנה לשבועות",
+        "category": "62fcbb75a4191e36cd6fb0b0",
+        "price": 230,
+        "times": {
+          "makeDays": 3,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0c9",
+        "name": "מארז ראש השנה",
+        "category": "62fcbb75a4191e36cd6fb0b0",
+        "price": 200,
+        "times": {
+          "makeDays": 3,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0c5",
+        "name": "כבד קצוץ",
+        "category": "62fcbb75a4191e36cd6fb0ae",
+        "price": 26,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb75a4191e36cd6fb0c2",
+        "name": "קובנה",
+        "category": "62fcbb75a4191e36cd6fb0b2",
+        "price": 49,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb76a4191e36cd6fb0cd",
+        "name": "כריך פטה",
+        "category": "62fcbb75a4191e36cd6fb0ac",
+        "price": 28,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      },
+      {
+        "id": "62fcbb76a4191e36cd6fb0cc",
+        "name": "סלט יווני",
+        "category": "62fcbb75a4191e36cd6fb0ac",
+        "price": 42,
+        "times": {
+          "makeDays": 1,
+          "available_days_of_week": [1, 2, 3, 4, 5, 6, 7],
+          "excludeDates": []
+        }
+      }
+    ]
+  }
+  
